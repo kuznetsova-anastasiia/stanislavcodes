@@ -3,10 +3,10 @@
 🌱 I’m currently learning more about Fullstack Development<br>
 📫 How to reach me: Email - stanislav.codes@gmail.com
 
-### 💔🇺🇦 Help Ukraine 🇺🇦💔:
+### 💔 Help Ukraine 🇺🇦:
 
-🇺🇦Ukraine is fighting not only for itself but for the free world! <br/>
-🆘You can help us win by donating to one of the trusted foundations! <br/>
+🇺🇦 Ukraine is fighting not only for itself but for the free world! <br/>
+🆘 You can help us win by donating to one of the trusted foundations! <br/>
 
 [![Come Back Alive](https://custom-icon-badges.demolab.com/badge/Come%20Back%20Alive-Donate-success.svg?logo=heart&logoColor=white)](https://www.comebackalive.in.ua/donate)
 [![Charity foundation of Serhiy Prytula](https://custom-icon-badges.demolab.com/badge/Charity%20foundation%20of%20Serhiy%20Prytula-Donate-success.svg?logo=heart&logoColor=white)](https://prytulafoundation.org/en/home/support_page)
