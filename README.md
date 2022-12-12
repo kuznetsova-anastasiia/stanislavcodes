@@ -1,4 +1,4 @@
-**`🇺🇦 Software engineering student`**
+**`Software engineering student`**
 
 🌱 I’m currently learning more about Fullstack Development<br>
 📫 How to reach me: Email - stanislav.codes@gmail.com
