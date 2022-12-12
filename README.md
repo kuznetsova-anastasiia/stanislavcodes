@@ -1,9 +1,9 @@
 **`Software engineering student`**
 
-🌱 I’m currently learning more about Fullstack Development<br>
+🌱 I’m currently learning more about **Fullstack Development**<br>
 📫 How to reach me: Email - stanislav.codes@gmail.com
 
-### 🇺🇦 Help Ukraine:
+### 🇺🇦 **Help Ukraine**:
 
 Ukraine is fighting not only for itself but for the free world! 💔<br/>
 You can help us win by donating to one of the trusted foundations! 🆘<br/>
@@ -12,11 +12,11 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 [![Charity foundation of Serhiy Prytula](https://custom-icon-badges.demolab.com/badge/Charity%20foundation%20of%20Serhiy%20Prytula-Donate-success.svg?logo=heart&logoColor=white)](https://prytulafoundation.org/en/home/support_page)
 [![UNITED 24](https://custom-icon-badges.demolab.com/badge/UNITED%2024-Donate-success.svg?logo=heart&logoColor=white)](https://u24.gov.ua/)
 
-### 🌐 Socials:
+### 🌐 **Socials**:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stanislav_codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stanislav.codes/)
 
-### 💻 Tech Stack
+### 💻 **Tech Stack**:
 
 <img align="left" alt="JavaScript" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -32,5 +32,3 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 <!-- <img align="left" alt="TypeScript" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
 <!-- <img align="left" alt="React" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 <br />
-
-[!heart-fill]
