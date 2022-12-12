@@ -1,7 +1,16 @@
-**`🎯Software engineering student`**
+**`🇺🇦 Software engineering student`**
 
 🌱 I’m currently learning more about Fullstack Development<br>
 📫 How to reach me: Email - stanislav.codes@gmail.com
+
+### 💔🇺🇦 Help Ukraine 🇺🇦💔:
+
+🇺🇦Ukraine is fighting not only for itself but for the free world! <br/>
+🆘You can help us win by donating to one of the trusted foundations! <br/>
+
+[![Come Back Alive](https://custom-icon-badges.demolab.com/badge/Come%20Back%20Alive-Donate-success.svg?logo=heart&logoColor=white)](https://www.comebackalive.in.ua/donate)
+[![Charity foundation of Serhiy Prytula](https://custom-icon-badges.demolab.com/badge/Charity%20foundation%20of%20Serhiy%20Prytula-Donate-success.svg?logo=heart&logoColor=white)](https://prytulafoundation.org/en/home/support_page)
+[![UNITED 24](https://custom-icon-badges.demolab.com/badge/UNITED%2024-Donate-success.svg?logo=heart&logoColor=white)](https://u24.gov.ua/)
 
 ### 🌐 Socials:
 
@@ -23,3 +32,5 @@
 <!-- <img align="left" alt="TypeScript" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
 <!-- <img align="left" alt="React" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 <br />
+
+[!heart-fill]
