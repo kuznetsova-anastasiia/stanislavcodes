@@ -14,7 +14,7 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 
 ### 🌐 **Socials**:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stanislav_codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stanislav.codes/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stanislavcodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stanislav.codes/)
 
 ### 💻 **Tech Stack**:
 
