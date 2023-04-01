@@ -1,9 +1,9 @@
 **`Fullstack Developer`**
 
-🌱 I’m currently learning more about **`Node.js, TypeScript, Next.js`**<br>
+🌱 I’m currently learning more about **`Node.js, Next.jsб TypeScript`**<br>
 📫 How to reach me: Email - stanislav.codes@gmail.com
 
-<summary>🇺🇦 Help Ukraine!</summary>
+<summary>:blue_heart::yellow_heart: Help Ukraine!</summary>
 <br/>
 Ukraine is fighting not only for itself but for the free world! 💔<br/>
 You can help us win by donating to one of the trusted foundations! 🆘<br/>
