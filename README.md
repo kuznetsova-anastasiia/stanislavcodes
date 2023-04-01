@@ -28,4 +28,4 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 
 <summary>:rocket: Github Stats</summary>
 <br/>
-<a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=stanislavcodes" width="700" /></a>
+<a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=stanislavcodes" width="540" /></a>
