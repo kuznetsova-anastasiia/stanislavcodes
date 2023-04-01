@@ -26,8 +26,10 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,git,tailwind,github,figma,cs" />
 <!--prisma,redux,supabase,mongodb,express-->
 
-<summary>:rocket: Github Stats</summary>
-<br/>
-<!-- <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=stanislavcodes" width="540" /></a> -->
+<!-- <summary>:rocket: Github Stats</summary>
+<br/> 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=stanislavcodes&&border_radius=6&mode=weekly" height="200"  />
+</a> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stanislavcodes&&border_radius=6&mode=weekly)](https://git.io/streak-stats)<img width=20/>[![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislavcodes)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=stanislavcodes" width="540" /></a> -->
