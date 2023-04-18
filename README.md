@@ -23,7 +23,7 @@ You can help us win by donating to one of the trusted foundations! 🆘<br/>
 <summary>💻 Tech Stack</summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,git,tailwind,github,figma,cs" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,tailwind,github,vercel,figma" />
 <!--prisma,redux,supabase,mongodb,express-->
 
 <!-- <summary>:rocket: Github Stats</summary>
